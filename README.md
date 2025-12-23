@@ -113,7 +113,7 @@ b^{[1]} := b^{[1]} - \alpha db^{[1]}
 
 ## How to Run
 
-1. Open `nn_FROM_sCRATCH.ipynb`
+1. Open `neural_network_frm_scratch `
 2. Run all cells sequentially
 3. Observe training loss and accuracy on MNIST
 
