@@ -26,7 +26,7 @@ Our NN uses a simple two-layer architecture:
 ---
 
 ## Forward Propagation
-
+$
 [
 Z^{[1]} = W^{[1]} X + b^{[1]}
 ]
@@ -39,7 +39,7 @@ Z^{[2]} = W^{[2]} A^{[1]} + b^{[2]}
 [
 A^{[2]} = g_{\text{softmax}}(Z^{[2]})
 ]
-
+$
 ---
 
 ## Backward Propagation
